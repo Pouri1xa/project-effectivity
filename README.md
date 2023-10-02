@@ -28,7 +28,6 @@ App for recording time spent and expenses for orders on the one hand and revenue
          4. Username: `postgres`
          5. Password: `changeme`
    2. The *Budibase* toolkit for low-/no-code building the app is available under [localhost:10000](http://localhost:10000/)
-      1. 
 
 ## TL;DR
 
