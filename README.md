@@ -22,7 +22,7 @@ App for recording time spent and expenses for orders on the one hand and revenue
    1. The *pgAdmin* database inspection frontend is running under [localhost:5050](http://localhost:5050/)
       1. Set up a password (e.g. `admin`)
       2. Set up the connection to the postgres service which was also set up in the previous docker-compose (the following vars ca be changed in [postgres.env](./docker/postgres.env)):
-         1. "Add Server"
+         1. "Add new server"
          2. Host name/address: `postgres`
          3. Port: `5432`
          4. Username: `postgres`
